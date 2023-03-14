@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.c9b0a6aa.css",
+    "main.js": "/portfolio-react/static/js/main.19c58620.js",
+    "static/media/profileimg.jpg": "/portfolio-react/static/media/profileimg.193a46da061aa8fe8455.jpg",
+    "static/media/portfolio.png": "/portfolio-react/static/media/portfolio.e58bbf37c5e2682ffa8a.png",
+    "static/media/cart.png": "/portfolio-react/static/media/cart.a74a1d3e6439a1fdf47e.png",
+    "static/media/dashboard.png": "/portfolio-react/static/media/dashboard.60b909d278c6f5c58747.png",
+    "static/media/product.png": "/portfolio-react/static/media/product.836778b2c67698beb3f4.png",
+    "static/media/testimonial3.png": "/portfolio-react/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/work2.jpg": "/portfolio-react/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/testimonial2.png": "/portfolio-react/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/portfolio-react/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "static/media/John-Cv.pdf": "/portfolio-react/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/portfolio-react/index.html",
+    "main.c9b0a6aa.css.map": "/portfolio-react/static/css/main.c9b0a6aa.css.map",
+    "main.19c58620.js.map": "/portfolio-react/static/js/main.19c58620.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b0a6aa.css",
+    "static/js/main.19c58620.js"
+  ]
+}
